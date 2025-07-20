@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋</h1>
+<h1 align="center">Hi there, I'm Pranav S 👋</h1>
 <h3 align="center">CS Student | Full Stack Developer | Cybersecurity Enthusiast</h3>
 
 ---
@@ -15,10 +15,12 @@
 ### 🛠️ Tech Stack
 
 **Languages & Scripting:**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Frameworks & Libraries:**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
@@ -56,4 +58,3 @@
 ### 💡 Quote of the Day
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
