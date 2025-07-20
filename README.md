@@ -40,12 +40,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranav&show_icons=true&theme=radical" alt="Pranav's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OGpranav17&show_icons=true&theme=radical" alt="Pranav's GitHub stats" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=Pranav&theme=radical&hide_border=true" alt="Pranav's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=OGpranav17&theme=radical&hide_border=true" alt="Pranav's GitHub streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGpranav17&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
